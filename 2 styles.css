@@ -1,0 +1,38 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box 10px;
+}
+
+body{
+    background-image: url(img/aaa.jpg);
+    text-align: center ;
+    color: rgb(8, 10, 10);
+
+
+    
+    
+}
+
+.form-register{
+    width: 200px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+  
+}
+
+
+
+.controls {
+    width: 50%;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(7, 10, 15);
+    font-size: 18px;
+    
+}
+p{margin: 30px  30px 30px;}
